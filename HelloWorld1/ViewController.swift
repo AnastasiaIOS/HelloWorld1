@@ -28,6 +28,7 @@ class ViewController: UIViewController {
             showtextbutton.setTitle("show text", for: .normal)
         } else {
             showtextbutton.setTitle("hide text", for: .normal)
+            
         }
     }
     
